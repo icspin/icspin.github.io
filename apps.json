@@ -13,10 +13,10 @@
     "name": "One Axis",
     "url": "https://icspin.github.io/one-axis/",
     "tagline": "A telescope mount that only makes sense on a rotating sphere.",
-    "build": 0,
+    "build": 1,
     "image": "previews/one-axis.png",
     "updated": "2026-07-28",
-    "status": "soon",
+    "status": "live",
     "accent": "#33e0c2"
   }
 ]
