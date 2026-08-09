@@ -3,9 +3,9 @@
     "name": "Solterm",
     "url": "https://icspin.github.io/compare-earfs/",
     "tagline": "One sun, one clock, every model. A solar geometry console.",
-    "build": 99,
+    "build": 117,
     "image": "previews/solterm.png",
-    "updated": "2026-07-28",
+    "updated": "2026-08-09",
     "status": "live",
     "accent": "#f5b942"
   },
